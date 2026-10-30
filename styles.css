@@ -81,15 +81,3 @@ button:hover{
 a{
     text-decoration: none;
 }
-
-body::after{
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 1440px;
-    height: 960px;
-    background: url("images/destkop-design.jpg") no-repeat;
-    opacity: 0.5;
-    pointer-events: none; 
-}
