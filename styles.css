@@ -21,6 +21,7 @@ body{
     min-height: 100vh;
     font-size: 10px;
     font-family: 'Inter', sans-serif;
+    line-height: 1.5;
 }
 
 .container{
@@ -51,7 +52,7 @@ body{
     flex-direction: column;
     width: 100%;
     margin-bottom: 10px;
-    padding: 12px;
+    padding: 16px;
     border-radius: 5px;
     border: none;
     background-color: var(--button);
