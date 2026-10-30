@@ -25,14 +25,15 @@ body{
 
 .container{
     background-color: var(--font);
-    padding: 15px;
-    border-radius: 5px;
-
+    padding: 40px;
+    border-radius: 8px;
+    max-width: 384px;
+    width: 100%;
 }
 
 .image{
-    width: 50px;
-    height: 50px;
+    width: 88px;
+    height: 88px;
     border-radius: 50%;
     object-fit: cover;
 }
@@ -49,13 +50,13 @@ body{
     display: flex;
     flex-direction: column;
     width: 100%;
-    margin-bottom: 8px;
-    padding: 8px;
+    margin-bottom: 10px;
+    padding: 12px;
     border-radius: 5px;
     border: none;
     background-color: var(--button);
     color: var(--letter);
-    font-size: 0.7rem;
+    font-size: 0.8rem;
 }
 
 button:hover{
