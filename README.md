@@ -28,7 +28,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ### What I learned
 
